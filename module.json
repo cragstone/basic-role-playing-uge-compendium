@@ -1,0 +1,335 @@
+{
+  "id": "basic-role-playing-uge-compendium",
+  "title": "Basic Role Playing UGE Compendium",
+  "version": "1.9",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "authors": [
+    {
+      "name": "Dangermouse",
+      "flags": {}
+    },
+    {
+      "name": "Crys",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "allegiances",
+      "label": "Allegiances",
+      "path": "packs/allegiances",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "armour",
+      "label": "Armour",
+      "path": "packs/armour",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "character-failings",
+      "label": "Character Failings",
+      "path": "packs/character-failings",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "combat-tables",
+      "label": "Combat Tables",
+      "path": "packs/combat-tables",
+      "type": "RollTable",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "creatures",
+      "label": "Creatures",
+      "path": "packs/creatures",
+      "type": "Actor",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "creature-tables",
+      "label": "Creature Tables",
+      "path": "packs/creature-tables",
+      "type": "RollTable",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "hit-locations",
+      "label": "Hit-Locations",
+      "path": "packs/hit-locations",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "magic-spells",
+      "label": "Magic Spells",
+      "path": "packs/magic-spells",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "mutations",
+      "label": "Mutations",
+      "path": "packs/mutations",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "passions",
+      "label": "Passions",
+      "path": "packs/passions",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "personalities",
+      "label": "Personalities",
+      "path": "packs/personalities",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "powers",
+      "label": "Powers",
+      "path": "packs/powers",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "professions",
+      "label": "Professions",
+      "path": "packs/professions",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "psychic-abilities",
+      "label": "Psychic Abilities",
+      "path": "packs/psychic-abilities",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "reputations",
+      "label": "Reputations",
+      "path": "packs/reputations",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "skill-categories",
+      "label": "Skill Categories",
+      "path": "packs/skill-categories",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "skills",
+      "label": "Skills",
+      "path": "packs/skills",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "sorcery-spells",
+      "label": "Sorcery Spells",
+      "path": "packs/sorcery-spells",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "superpower-modifiers",
+      "label": "Superpower Modifiers",
+      "path": "packs/superpower-modifiers",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "superpowers",
+      "label": "Superpowers",
+      "path": "packs/superpowers",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "traits",
+      "label": "Traits",
+      "path": "packs/traits",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "utilities",
+      "label": "Utilities",
+      "path": "packs/utilities",
+      "type": "Macro",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons",
+      "path": "packs/weapons",
+      "type": "Item",
+      "system": "brp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "rollable-tables",
+      "label": "Rollable Tables",
+      "path": "packs/rollable-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "brp",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "brp",
+        "type": "system",
+        "compatibility": {
+          "minimum": "13.1.55"
+        }
+      }
+    ]
+  },
+  "description": "A module for Foundry VTT implementation of Chaosium's BRP. This contains compendia for the BRP System for Foundry VTT(https://github.com/cragstone/brp).",
+  "url": "https://github.com/cragstone/basic-role-playing-uge-compendium",
+  "manifest": "https://github.com/cragstone/basic-role-playing-uge-compendium/releases/latest/download/module.json",
+  "download": "https://github.com/cragstone/basic-role-playing-uge-compendium/releases/download/1.9/basic-role-playing-uge-compendium.zip",
+  "license": "LICENSE.txt",
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/basic-role-playing-uge-compendium/assets/brp-logo-powered_by-solid.png",
+      "thumbnail": "modules/basic-role-playing-uge-compendium/assets/brp-logo-powered_by-solid.png",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "flags": {}
+}
