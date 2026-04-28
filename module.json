@@ -1,10 +1,11 @@
 {
   "id": "basic-role-playing-uge-compendium",
   "title": "Basic Role Playing UGE Compendium",
-  "version": "1.9",
+  "version": "1.10",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13.351"
+    "minimum": "12",
+    "verified": "14.359",
+    "maximum": "14"
   },
   "authors": [
     {
@@ -312,7 +313,7 @@
         "id": "brp",
         "type": "system",
         "compatibility": {
-          "minimum": "13.1.55"
+          "minimum": "14.1"
         }
       }
     ]
@@ -320,7 +321,7 @@
   "description": "A module for Foundry VTT implementation of Chaosium's BRP. This contains compendia for the BRP System for Foundry VTT(https://github.com/cragstone/brp).",
   "url": "https://github.com/cragstone/basic-role-playing-uge-compendium",
   "manifest": "https://github.com/cragstone/basic-role-playing-uge-compendium/releases/latest/download/module.json",
-  "download": "https://github.com/cragstone/basic-role-playing-uge-compendium/releases/download/1.9/basic-role-playing-uge-compendium.zip",
+  "download": "https://github.com/cragstone/basic-role-playing-uge-compendium/releases/download/1.10/basic-role-playing-uge-compendium.zip",
   "license": "LICENSE.txt",
   "media": [
     {
